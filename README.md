@@ -21,21 +21,3 @@
 - 🔗 LinkedIn: https://www.linkedin.com/in/mohitt09
 
 📖 I believe in the power of code to make the world a better place, and I'm on a mission to turn ideas into reality. Let's collaborate and build something awesome together!
-
-
-<!---
-- 👋 Hi, I’m @mohit-thakur09
-- 👀 I’m interested in Code with Caffine
-- 🌱 I’m currently learning Python, Oracle and Full Stack with MERN.
-- 💞️ I’m looking to collaborate on webApps
-- 📫 How to reach me- mohit9425thakur@gmail.com
-
-- 🌐 Portfolio: [Your Portfolio Website]
-- 🐦 Twitter: [Your Twitter Handle]
-- 📷 Instagram: [Your Instagram Handle]
-
-💼 Currently working at [Your Current Company/Project]
-
-mohit-thakur09/mohit-thakur09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
