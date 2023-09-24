@@ -3,7 +3,7 @@
 
 🚀 My Tech Stack:
 - 💻 MERN (MongoDB, Express.js, React, Node.js)
-- 🧠 C, C++, Java
+- 🧠 C, C++, Python
 - 📊 Data Structures & Algorithms
 
 🌱 Always eager to learn and explore new technologies
