@@ -1,5 +1,7 @@
 
-Hi! I'm Mohit Thakur, a dedicated full-stack developer with a passion for crafting robust web applications and a knack for tackling complex challenges."
+## Hi! I'm Mohit Thakur, 
+
+A dedicated full-stack developer with a passion for crafting robust web applications and a knack for tackling complex challenges.
 
 My Tech Stack:
 - 💻 MERN (MongoDB, Express.js, React, Node.js)
